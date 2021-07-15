@@ -2,6 +2,8 @@
 
 Welcome to the place where fun begins.
 
+Stay tuned...
+
 <!--
 **simun-ivanac/simun-ivanac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,5 +17,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=simun-ivanac&hide=stars&theme=react)](https://github.com/simun-ivanac/github-readme-stats)
+-->
