@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Welcome to the place where fun begins.
+Welcome to the party.
 
 <br>
 
@@ -14,15 +14,15 @@ I love:
 - building practical solutions,
 - lists.
 
-<i>I don't love:</i>
+<i>I don't like:</i>
 - poor written documentation,
 - failed CI/CD pipelines.
 
 <br>
 
-My programming is not writing prompts or autocompletion. I learn things as I write code. Why would I leave that up to AI?
+My programming is not writing prompts. I learn things as I write code. Why would I leave that up to AI?
 
-My focus is on PHP and building strong backend applications. E-commerce projects make me even happier.
+My focus is on PHP (Symfony) and building strong backend applications. E-commerce projects make me even happier.
 
 <br>
 
@@ -33,7 +33,7 @@ My focus is on PHP and building strong backend applications. E-commerce projects
 - JavaScript (vanilla & React.js)
 - PHP & MySQL
 
-### Frameworks & CMS's:
+### Frameworks & CMSs:
 - Symfony
 - CodeIgniter
 - WordPress
