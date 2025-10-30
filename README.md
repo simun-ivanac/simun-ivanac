@@ -45,7 +45,7 @@ My focus is on PHP (Symfony) and building strong backend applications. E-commerc
 - Webpack
 - Docker
 - Valet
-- MySQL Workbench
+- DBeaver
 - Terminal things (symfony cli, wp-cli, iTerm, powershell...)
 - VS Code
 - Coding standards tools & extensions
