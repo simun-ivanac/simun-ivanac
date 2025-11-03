@@ -6,7 +6,7 @@ Welcome to the party.
 
 ## About me
 
-I’m a software engineer with years of experience in developing web applications. I'm also very simple to understand.
+I’m a software engineer with years of experience in developing web applications. I'm also very easy to understand.
 
 I love:
 - solving problems,
@@ -22,7 +22,7 @@ I love:
 
 My programming is not writing prompts. I learn things as I write code. Why would I leave that up to AI?
 
-My focus is on PHP (Symfony) and building strong backend applications. E-commerce projects make me even happier.
+My focus is on PHP and building strong backend applications. E-commerce projects make me even happier.
 
 <br>
 
@@ -35,7 +35,7 @@ My focus is on PHP (Symfony) and building strong backend applications. E-commerc
 
 ### Frameworks & CMSs:
 - Symfony
-- CodeIgniter
+- Laravel
 - WordPress
 
 ### Tools:
@@ -54,7 +54,6 @@ My focus is on PHP (Symfony) and building strong backend applications. E-commerc
 - Google Workspace
 - Jira
 - Slack
-- Productive
 
 
 <!--
