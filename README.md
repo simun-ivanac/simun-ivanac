@@ -46,7 +46,7 @@ My focus is on PHP and building strong backend applications. E-commerce projects
 - Docker
 - Valet
 - DBeaver
-- Terminal things (symfony cli, wp-cli, iTerm, powershell...)
+- Terminal things (symfony cli, artisan console, wp-cli, iTerm, powershell...)
 - VS Code
 - Coding standards tools & extensions
 
