@@ -1,12 +1,12 @@
 # Hi there 👋
 
-Welcome to the party.
+Here you can find a little bit of information about my background.
 
 <br>
 
 ## About me
 
-I’m a software engineer with years of experience in developing web applications. Here you can find a little bit information about my background.
+I’m a software engineer with years of experience in developing web applications.
 
 I love:
 - solving problems,
